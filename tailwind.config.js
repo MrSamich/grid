@@ -8,7 +8,11 @@ module.exports = {
                 "color2" : "#CFCFCF",
                 "color3" : "#48556A",
                 "color4" : "#19202D",
-             }
+                "color5" : "#A775F1",
+             },
+             padding: {
+                'p6': '1.625rem',
+             },
         },
     },
     variants: {
