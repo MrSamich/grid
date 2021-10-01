@@ -33,6 +33,12 @@ module.exports = {
                 'p165': '10.313rem',
                 
              },
+             gridTemplateColumns: {
+                'box1' : '1fr 1fr 1fr 1fr',
+             },
+             gridTemplateRows: {
+                'box1' : '1fr 1fr',
+             }
         },
     },
     variants: {
