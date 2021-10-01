@@ -29,15 +29,20 @@ module.exports = {
                 'p6': '1.625rem',
                 'p4': '1.063rem',
                 'p17': '4.438rem',
-                'p41': '10.25rem',
-                'p165': '10.313rem',
-                
+                'p89': '22.25rem',
+             },
+             margin: {
+                'm41': '10.25rem',
+                'm165': '10.313rem',
              },
              gridTemplateColumns: {
                 'box1' : '1fr 1fr 1fr 1fr',
              },
              gridTemplateRows: {
                 'box1' : '1fr 1fr',
+             },
+             zIndex : {
+                 'index10' : '-10',
              }
         },
     },
